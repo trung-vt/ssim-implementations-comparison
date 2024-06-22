@@ -1,0 +1,10 @@
+torch>=1.0.0
+numpy
+pillow
+scikit-image
+pytorch-ignite
+ipykernel
+matplotlib
+pandas
+tqdm
+pytorch-msssim
